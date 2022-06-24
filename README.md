@@ -1,6 +1,6 @@
 ### Olá! Seja Bem-Vindo(a)! 👋
 
-### Sou estudante de Análise de Desenvolvimento de Sistemas e estagiária de Testes de Software
+### Sou estudante de Análise e Desenvolvimento de Sistemas e estagiária de Testes de Software
 
 
 <center>
@@ -14,18 +14,17 @@
 
 ### Estou aprendendo
 
-<img src="#" width="40" height="40"/>
-<img src="#" width="40" height="40"/>
-<img src="#" width="40" height="40"/>
-<img src="#" width="40" height="40"/>
+<img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/html.png" width="40" height="40"/>
+<img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/css-3.png" width="40" height="40"/>
+<img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/js.png" width="40" height="40"/>
 
 #Meus Contatos:
 
 <a href="https://www.linkedin.com/in/MahayanaVitoria" target="_blank">
-    <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/21dd01497e5ca8471eef21d2221b50529f227e1a/linkedin.png" width="40">LinkedIn</img>
+    <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/linkedin.png" width="40"> LinkedIn</img>
 </a>
 
-<img src="#" width="40">mahayanavitoria@outlook.com</img>
+<img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/outlook.png" width="40"> mahayanavitoria@outlook.com</img>
 
 
 ![Snake animation](https://github.com/MahayanaVitoria/MahayanaVitoria/blob/output/github-contribution-grid-snake.svg)

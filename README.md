@@ -1,6 +1,6 @@
 ### Olá! Seja Bem-Vindo(a)! 👋
 
-### Sou estudante de Análise de Desenvolvimento de Sistemas e trabalho como Tester de Software
+### Sou estudante de Análise de Desenvolvimento de Sistemas e estagiária de Testes de Software
 
 
 <center>

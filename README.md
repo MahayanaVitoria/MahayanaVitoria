@@ -18,7 +18,7 @@
 <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/css-3.png" width="40" height="40"/>
 <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/js.png" width="40" height="40"/>
 
-#Meus Contatos:
+### Meus Contatos:
 
 <a href="https://www.linkedin.com/in/MahayanaVitoria" target="_blank">
     <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/linkedin.png" width="40"> LinkedIn</img>

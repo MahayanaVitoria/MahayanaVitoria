@@ -10,4 +10,4 @@
 </center>  
 
 <a href="https://www.linkedin.com/in/MahayanaVitoria">
-    <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/21dd01497e5ca8471eef21d2221b50529f227e1a/linkedin(1).png" width="25">LinkedIn</img></a>
+    <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/21dd01497e5ca8471eef21d2221b50529f227e1a/linkedin (1).png" width="25">LinkedIn</img></a>

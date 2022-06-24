@@ -9,4 +9,4 @@
 </table>
 </center>  
 
-<a href="https://www.linkedin.com/in/MahayanaVitoria"><img src="https://github.com/MahayanaVitoriaMahayanaVitoria/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/MahayanaVitoria)  
+<a href="https://www.linkedin.com/in/MahayanaVitoria"><img src="https://github.com/MahayanaVitoria/MahayanaVitoria/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/MahayanaVitoria)  

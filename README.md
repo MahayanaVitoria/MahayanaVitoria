@@ -20,7 +20,7 @@
 
 ### Meus Contatos:
 
-<a href="https://www.linkedin.com/in/MahayanaVitoria" target="_blank">
+<a href="https://www.linkedin.com/in/mah%C3%A3yana-vit%C3%B3ria-ceronato-taborda-aa199b18b/" target="_blank">
     <img src="https://github.com/MahayanaVitoria/MahayanaVitoria/blob/main/linkedin.png" width="40"> LinkedIn</img>
 </a>
 
